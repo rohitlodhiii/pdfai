@@ -5,9 +5,4 @@ langchain-google-genai
 google-generativeai
 python-dotenv
 faiss-cpu
-<<<<<<< HEAD
 langchain-community
-=======
-langchain_google_genai
-langchain-community
->>>>>>> ee78319a69b499c824c0aa3c6e8d7c499421a299
